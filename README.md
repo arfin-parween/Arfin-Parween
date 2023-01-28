@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arfin Parween</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/6Q4tSBX7vQ2YVdY87">
+<img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile%20views&color=0e75b6&style=flat" alt="arfin-parween" /> </p>
 
