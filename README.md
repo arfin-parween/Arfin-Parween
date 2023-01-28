@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile%20views&color=0e75b6&style=flat" alt="arfin-parween" /> </p>
 
-<p align="left"> <a href="https://twitter.com/start practicing" target="blank"><img src="https://img.shields.io/twitter/follow/start practicing?logo=twitter&style=for-the-badge" alt="start practicing" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@StartPracticing" target="blank"><img src="https://img.shields.io/twitter/follow/start practicing?logo=twitter&style=for-the-badge" alt="start practicing" /></a> </p>
 
 - 🔭 I’m currently working on **TCS Neilsen**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="start practicing" height="30" width="40" /></a>
+<a href="https://twitter.com/@StartPracticing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="start practicing" height="30" width="40" /></a>
 <a href="https://instagram.com/i._am._arfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._am._arfin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="start practicing" height="30" width="40" /></a>
 </p>
