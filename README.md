@@ -1,7 +1,7 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpR5Smfs8ZmfwaQdPIlhNbnJOTJByV_Hlyw&usqp=CAU)]
+<!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpR5Smfs8ZmfwaQdPIlhNbnJOTJByV_Hlyw&usqp=CAU)]-->
 <h1 align="center">Hi 👋, I'm Arfin Parween</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz">
+<img align="right" alt="Coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqc7iSN0xsYQc-dib0KTHtq480Pq1GBknYZg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile%20views&color=0e75b6&style=flat" alt="arfin-parween" /> </p>
 
