@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **Apache Spark, AWS**
 
 - 💬 Ask me about **Java, Airflow**
+-    Follow me  **https://www.linkedin.com/in/arfin-parween/**
 
 - 📫 How to reach me **wbstartpracticing@gmail.com**
 
@@ -20,6 +21,7 @@
 <a href="https://twitter.com/@StartPracticing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="start practicing" height="30" width="40" /></a>
 <a href="https://instagram.com/i._am._arfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._am._arfin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="start practicing" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
