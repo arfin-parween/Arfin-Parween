@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **TCS Neilsen**
 
-- 🌱 I’m currently learning **Apache Spark**
+- 🌱 I’m currently learning **Apache Spark, AWS**
 
 - 💬 Ask me about **Java, Airflow**
 
