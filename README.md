@@ -19,7 +19,7 @@
 <a href="https://twitter.com/@StartPracticing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="start practicing" height="30" width="40" /></a>
 <a href="https://instagram.com/i._am._arfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._am._arfin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="start practicing" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arfin-parween/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Arfin Parween" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arfin-parween/" target="blank"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" alt="Arfin Parween" height="30" width="40" /></a>
 
 </p>
 
