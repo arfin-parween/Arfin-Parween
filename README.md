@@ -1,29 +1,51 @@
-<!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUpR5Smfs8ZmfwaQdPIlhNbnJOTJByV_Hlyw&usqp=CAU)]-->
-<h1 align="center">Hi 👋, I'm Arfin Parween</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqc7iSN0xsYQc-dib0KTHtq480Pq1GBknYZg&usqp=CAU">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile%20views&color=0e75b6&style=flat" alt="arfin-parween" /> </p>
-
-<!--<p align="left"> <a href="https://twitter.com/@StartPracticing" target="blank"><img src="https://img.shields.io/twitter/follow/start practicing?logo=twitter&style=for-the-badge" alt="start practicing" /></a> </p>-->
-
-- 🔭 I’m a **YouTube Creator**
-
-- 🌱 I’m currently learning **Apache Spark, AWS, Apache Airflow, Distributed System, Scala**
-
-- 💬 Ask me about **Java, Data Structure and Algorithm, DBMS, CS Subjects etc**
-- 📫 How to reach me **wbstartpracticing@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@StartPracticing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="start practicing" height="30" width="40" /></a>
-<a href="https://instagram.com/i._am._arfin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._am._arfin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/start practicing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="start practicing" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arfin-parween/" target="blank"><img align="center" src="https://i.stack.imgur.com/gVE0j.png" alt="Arfin Parween" height="30" width="40" /></a>
-
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Arfin+Parween!;Data+Engineer+%7C+Content+Creator+%7C+Tech+Educator">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> </a> <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://airflow.apache.org/docs/apache-airflow/2.3.2/_images/pin_large.png" alt="Airflow" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+### 👩‍💻 About Me
+- 👨‍💻 I’m a **Data Engineer** and **Content Creator** from India
+- 🎥 I run the YouTube channel **[Start Practicing](https://www.youtube.com/@StartPracticing)** with 200k+ learners
+- 🛠️ Tech topics I explore: `Big Data`, `Airflow`, `Spark`, `Scala`, `AWS`, `Data Pipelines`
+- 📚 I simplify complex concepts like `Java`, `DSA`, and `DBMS` for all levels
+- 📩 Reach out: **wbstartpracticing@gmail.com**
 
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/arfin-parween/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@StartPracticing" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/i._am._arfin" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/StartPracticing" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" width="40" height="40" alt="Scala"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40" alt="Apache Spark"/>
+  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="40" height="40" alt="Airflow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40" alt="Hadoop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+</p>
+
+---
+
+### 💬 Fun Fact
+> _“If you can’t explain it simply, you don’t understand it well enough.”_  
+> That’s why I break down complex data engineering topics into **YouTube tutorials for everyone**.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arfin-parween&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Count" />
+</p>
